@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romanbanar
-- 👀 I’m interested in React Native, Delphi, C#.
-- 🌱 I’m currently learning React Native, AR.
+- 👀 I’m interested in React Native, React, C#, Delphi.
+- 🌱 I’m currently learning React/ReactNative, AR.
 - 💞️ I’m looking to collaborate on AR projects.
 
 <!---
